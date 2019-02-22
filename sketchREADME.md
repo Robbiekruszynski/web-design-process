@@ -1,7 +1,8 @@
-README Sections for Sketch Projects
-READMEs of all Sketch projects created in this course must (at a minimum) include the following. This will also be graded in code reviews:
-
 # _XJ-16 Space_
+
+#### _{Brief description of application}, {Date of current version}_
+
+#### By _**Robbie Kruszynski**_
 
 * Project Description
 Write a few sentences that describe what the project does, what its goals are, what you've learned, etc. Don't skimp here! This is an opportunity to highlight your hard work to employers.
@@ -16,21 +17,25 @@ Write a few sentences that describe what the project does, what its goals are, w
 * Motivation - cost / access 24/7 / gallery showings in space
 * Pain points - lack of work sink at other options / no available space to showcase.
 * Tech - viewing / sign up for xj-16 primarily on mobile
+#### Story
+
 #### Target User 2
 * Kate - interior designer (commercial work space)
 * Needs - large workspace / natural light / work-boards
 * Motivation - surrounded by creative minds for inspiration / personal space to build outside of the work environment
 * Pain points - competition does not offer 3-d printer / lack of proper space for ideal workflow / slow and or unreliable internet
 * Tech - internet / 3-d printer / fax / printer
+#### Story
+
 #### Target User 3
 * Chris - UX designer
 * Needs - common area and welcoming workspace that doesn't feel like an office
 * Motivation - fast internet / available monitors to use / great selection of consumables
 * Pain points - slow internet / buildout at other offerings felt too much like a typical workspace
-* Tech - wifi / external monitors 
+* Tech - wifi / external monitors
+#### Story
 
-
-#### By _**Robbie Kruszynski**_
+### By _**Robbie Kruszynski**_
 
 * Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
@@ -56,5 +61,20 @@ After we begin creating responsive sites in week 3, you should also include a de
 * Developmental Roadmap
 Is there work you plan on continuing doing on this project? Features you'd like to add? If so, describe what your future intentions are in this section.
 
-* Licensing
-{This software is licensed under the MIT license} Copyright (c) 2019 {Robbie Kruszynski}
+## Known Bugs
+
+_As of Feb 22nd 2019 there are no known bugs_
+
+## Support and contact details
+
+_Contact robbiekruszynski@gmail.com with questions and comments_
+
+## Technologies Used
+
+* Sketch
+
+### License
+
+*{This software is licensed under the MIT license} Copyright (c) 2019 {Robbie Kruszynski}*
+
+Copyright (c) 2019 **_Robbie Kruszynski_**
