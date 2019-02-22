@@ -8,7 +8,27 @@ Write a few sentences that describe what the project does, what its goals are, w
 
 ## Description
 
-* _Web buildout for XJ-16 space. Showcasing a welcoming / productive shared workspace for anyone interested. Target demographic ranges "artists, daytraders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space."
+* _Web buildout for XJ-16 space. Showcasing a welcoming / productive shared workspace for anyone interested. Target demographic ranges "artists, daytraders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space."_
+
+#### Target User 1
+* Nathan - visual artist
+* Needs - natural light / personal creative space
+* Motivation - cost / access 24/7 / gallery showings in space
+* Pain points - lack of work sink at other options / no available space to showcase.
+* Tech - viewing / sign up for xj-16 primarily on mobile
+#### Target User 2
+* Kate - interior designer (commercial work space)
+* Needs - large workspace / natural light / work-boards
+* Motivation - surrounded by creative minds for inspiration / personal space to build outside of the work environment
+* Pain points - competition does not offer 3-d printer / lack of proper space for ideal workflow / slow and or unreliable internet
+* Tech - internet / 3-d printer / fax / printer
+#### Target User 3
+* Chris - UX designer
+* Needs - common area and welcoming workspace that doesn't feel like an office
+* Motivation - fast internet / available monitors to use / great selection of consumables
+* Pain points - slow internet / buildout at other offerings felt too much like a typical workspace
+* Tech - wifi / external monitors 
+
 
 #### By _**Robbie Kruszynski**_
 
@@ -24,6 +44,8 @@ Don't worry about this one quite yet! We'll explore what these are in Monday nig
 * List of Technologies Resources
 
 * List all technologies and outside resources your project uses. Especially when we begin using outside UI frameworks in week three! Not only does this give credit where credit is due, but it shows employers what tools you're experienced in.
+* Sketch v50.2
+
 
 * Setup Instructions
 Similar to what we've done in previous courses, describe the steps necessary to launch this project in Sketch.
