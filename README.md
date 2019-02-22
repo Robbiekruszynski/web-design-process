@@ -4,12 +4,9 @@
 
 #### By _**Robbie Kruszynski**_
 
-* Project Description
-Write a few sentences that describe what the project does, what its goals are, what you've learned, etc. Don't skimp here! This is an opportunity to highlight your hard work to employers.
-
 ## Description
 
-* _Web buildout for XJ-16 space. Showcasing a welcoming / productive shared workspace for anyone interested. Target demographic ranges "artists, daytraders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space."_
+* _Web buildout for XJ-16 space. Showcasing a welcoming / productive shared workspace for anyone interested. Target demographic ranges "artists, day-traders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space."_
 
 #### Target User 1
 * Nathan - visual artist
@@ -18,6 +15,7 @@ Write a few sentences that describe what the project does, what its goals are, w
 * Pain points - lack of work sink at other options / no available space to showcase.
 * Tech - viewing / sign up for xj-16 primarily on mobile
 #### Story
+My name is Nathan and I've been a professional painter for about 5 years. I focus on larger canvas work with abstract expressionism as my focus. Oil is my main medium, which requires ventilation and a cleaning space / sink. In the past I feel the spaces I've worked out of have had some of the requirements I need but have always lacked crucial elements.  Having access to my space 24/7 is very important due to my unknown schedule, along with having the ability to showcase work within the building.
 
 #### Target User 2
 * Kate - interior designer (commercial work space)
@@ -26,6 +24,7 @@ Write a few sentences that describe what the project does, what its goals are, w
 * Pain points - competition does not offer 3-d printer / lack of proper space for ideal workflow / slow and or unreliable internet
 * Tech - internet / 3-d printer / fax / printer
 #### Story
+My name is Kate and I've been in commercial interior design for about 10 years. The study of ascetic and minimalist interior design has been my focus and having a space that resonates with my focus provides a positive space for my mind to create. Being surrounded by other creative minds allows for natural influence which I thrive off of. Due to templates for buildout having space for texture layouts and a 3-d printer to create demos for clients is of upmost importance. Considering my free-lance work / style having a private space to meet with clients / have conference calls promotes my personal brand and professional.
 
 #### Target User 3
 * Chris - UX designer
@@ -34,6 +33,7 @@ Write a few sentences that describe what the project does, what its goals are, w
 * Pain points - slow internet / buildout at other offerings felt too much like a typical workspace
 * Tech - wifi / external monitors
 #### Story
+My name is Chris and I've been a UX designer for about six months, recent graduate from a coding bootcamp.
 
 ### By _**Robbie Kruszynski**_
 
