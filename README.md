@@ -37,28 +37,26 @@ My name is Chris and I've been a UX designer for about six months, recent gradua
 
 ### By _**Robbie Kruszynski**_
 
-* Photos of Paper Sketches
+####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
 
-* Screenshots of Sketch Wireframes
+####Screenshots of Sketch Wireframes
 This is really important! Include images of the user interfaces your project includes here in the README. (This includes any mobile or tablet versions.) Oftentimes potential employers don't have time to clone and launch projects. Make it easy for them to see the amazing work you've done. You're working so hard here at Epicodus; so make that work evident. Don't hesitate to show it off.
-* List of User Stories and Personas
 
-Don't worry about this one quite yet! We'll explore what these are in Monday night's homework.
-
-* List of Technologies Resources
+#### List of Technologies Resources
 
 * List all technologies and outside resources your project uses. Especially when we begin using outside UI frameworks in week three! Not only does this give credit where credit is due, but it shows employers what tools you're experienced in.
+
 * Sketch v50.2
 
 
-* Setup Instructions
+#### Setup Instructions
 Similar to what we've done in previous courses, describe the steps necessary to launch this project in Sketch.
 
-* Description of Responsiveness
+#### Description of Responsiveness
 After we begin creating responsive sites in week 3, you should also include a description of how this site is responsive. Does it include both mobile and desktop versions? Mobile, desktop and tablet? List that information here.
 
-* Developmental Roadmap
+#### Developmental Roadmap
 Is there work you plan on continuing doing on this project? Features you'd like to add? If so, describe what your future intentions are in this section.
 
 ## Known Bugs
