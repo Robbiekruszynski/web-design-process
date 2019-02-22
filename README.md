@@ -73,6 +73,8 @@ https://www.wework.com/
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
+![alt text](http://img/MVIMG_20190222_123805_1.jpg)
+
 
 ####Screenshots of Sketch Wireframes
 This is really important! Include images of the user interfaces your project includes here in the README. (This includes any mobile or tablet versions.) Oftentimes potential employers don't have time to clone and launch projects. Make it easy for them to see the amazing work you've done. You're working so hard here at Epicodus; so make that work evident. Don't hesitate to show it off.
