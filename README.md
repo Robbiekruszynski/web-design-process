@@ -33,9 +33,34 @@ My name is Kate and I've been in commercial interior design for about 10 years. 
 * Pain points - slow internet / buildout at other offerings felt too much like a typical workspace
 * Tech - wifi / external monitors
 #### Story
-My name is Chris and I've been a UX designer for about six months, and a recent graduate from a coding bootcamp. What I quickly discovered in my internship so I don't seem to do well in an office like setting. Having an open space will allow me to not feel such "restrictions" and provide a healthier environment for me to build in. My career completely revolves around access to reliable internet and I often find places throttle speeds. Having a space that provides monitors to use / rent help give space to create, seeing as bringing personal equipment is clunky and hazardous. 
+My name is Chris and I've been a UX designer for about six months, and a recent graduate from a coding bootcamp. What I quickly discovered in my internship so I don't seem to do well in an office like setting. Having an open space will allow me to not feel such "restrictions" and provide a healthier environment for me to build in. My career completely revolves around access to reliable internet and I often find places throttle speeds. Having a space that provides monitors to use / rent help give space to create, seeing as bringing personal equipment is clunky and hazardous.
 
-### By _**Robbie Kruszynski**_
+### Research
+#### Central office
+https://centrloffice.com/
+* Consistent color scheme
+* Easy to navigate
+* Plenty of high quality photos to showcase space
+* Smart layout with great readability / "fun" but professional fonts
+* Great usage of CSS grid system
+* Great inspiration for personal buildout
+#### NedSapce
+http://www.nedspace.com/
+* Basic layout, not exciting
+* Little to no photos to view space
+* Jarring colors with basic form / information
+* Lack of detail and creative outlet creates for a sub par experience
+* A good representation of what not to gain inspiration from
+
+#### weWork
+https://www.wework.com/
+* Welcome page feels a bit busy
+* Information presented in an accessible manner
+* footer feels clunky
+* map on right side with location selection is a nice touch (size needs work)
+* Not very friendly in terms of color
+* While overall they offer the most, their website jams too much in a small space
+
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
