@@ -88,7 +88,9 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 * Mobile layout
 ![Sketch](img/splash.png)
 ![Sketch](img/home.png)
-
+![Sketch](img/navbar.png)
+![Sketch](img/location.png)
+![Sketch](img/reach.png)
 #### List of Technologies Resources
 
 * List all technologies and outside resources your project uses. Especially when we begin using outside UI frameworks in week three! Not only does this give credit where credit is due, but it shows employers what tools you're experienced in.
