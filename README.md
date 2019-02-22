@@ -33,7 +33,7 @@ My name is Kate and I've been in commercial interior design for about 10 years. 
 * Pain points - slow internet / buildout at other offerings felt too much like a typical workspace
 * Tech - wifi / external monitors
 #### Story
-My name is Chris and I've been a UX designer for about six months, recent graduate from a coding bootcamp.
+My name is Chris and I've been a UX designer for about six months, and a recent graduate from a coding bootcamp. What I quickly discovered in my internship so I don't seem to do well in an office like setting. Having an open space will allow me to not feel such "restrictions" and provide a healthier environment for me to build in. My career completely revolves around access to reliable internet and I often find places throttle speeds. Having a space that provides monitors to use / rent help give space to create, seeing as bringing personal equipment is clunky and hazardous. 
 
 ### By _**Robbie Kruszynski**_
 
