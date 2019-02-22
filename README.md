@@ -84,7 +84,7 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 
 
 
-####Screenshots of Sketch Wireframes
+#### Screenshots of Sketch Wireframes
 * Mobile layout
 ![Sketch](img/splash.png)
 ![Sketch](img/home.png)
