@@ -85,7 +85,8 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 
 
 ####Screenshots of Sketch Wireframes
-This is really important! Include images of the user interfaces your project includes here in the README. (This includes any mobile or tablet versions.) Oftentimes potential employers don't have time to clone and launch projects. Make it easy for them to see the amazing work you've done. You're working so hard here at Epicodus; so make that work evident. Don't hesitate to show it off.
+* Mobile layout
+![Sketch](img/splash.png)
 
 #### List of Technologies Resources
 
