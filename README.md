@@ -35,7 +35,7 @@ My name is Kate and I've been in commercial interior design for about 10 years. 
 #### Story
 My name is Chris and I've been a UX designer for about six months, and a recent graduate from a coding bootcamp. What I quickly discovered in my internship so I don't seem to do well in an office like setting. Having an open space will allow me to not feel such "restrictions" and provide a healthier environment for me to build in. My career completely revolves around access to reliable internet and I often find places throttle speeds. Having a space that provides monitors to use / rent help give space to create, seeing as bringing personal equipment is clunky and hazardous.
 
-### Research
+## Research
 #### Central office
 https://centrloffice.com/
 * Consistent color scheme
@@ -61,6 +61,15 @@ https://www.wework.com/
 * Not very friendly in terms of color
 * While overall they offer the most, their website jams too much in a small space
 
+####
+
+* Easy to find amenities and billing
+* Make sure splash page is attractive and doesn't overwhelm the user
+* Responsive on mobile with no overflow
+* Usage of flex box with spacing or css grid helps store information in an accessable way
+* Color scheme to go along with interior layout will provide consistency physical to digital
+* Usage of interesting / readable font helps keep interest in provided information
+* Avoid "hard" layout / overload of information in a small space
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
