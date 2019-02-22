@@ -6,7 +6,7 @@
 
 ## Description
 
-* _Web buildout for XJ-16 space. Showcasing a welcoming / productive shared workspace for anyone interested. Target demographic ranges "artists, day-traders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space."_
+* _Web buildout for XJ-16 space. Showcasing a welcoming / productive shared workspace for anyone interested. Target demographic ranges "artists, day-traders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space." The website itself will contain a large splash/welcome page that will offer easy navigation to finding out cost of space, offers by XJ16 / perks to being a member, along with locations and amenities._
 
 #### Target User 1
 * Nathan - visual artist
@@ -77,6 +77,10 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 ![Sketch](img/sketch2.jpg)
 ![Sketch](img/sketch3.jpg)
 ![Sketch](img/sketch4.jpg)
+![Sketch](img/sketch5.jpg)
+![Sketch](img/sketch6.jpg)
+
+
 
 
 
