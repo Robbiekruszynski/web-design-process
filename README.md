@@ -90,6 +90,8 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 ![Sketch](img/navbar.png)
 ![Sketch](img/location.png)
 ![Sketch](img/reach.png)
+![Sketch](img/space.png)
+![Sketch](img/upcoming.png)
 
 #### Screenshots of Sketch Wireframes tablet
 ![Sketch](img/ipadSplash.png)
