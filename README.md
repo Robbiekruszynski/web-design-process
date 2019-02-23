@@ -93,8 +93,10 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 
 #### Screenshots of Sketch Wireframes tablet
 ![Sketch](img/ipadSplash.png)
+
 #### Screenshots of Sketch Wireframes Desktop
 ![Sketch](img/desktopSplash.png)
+
 #### List of Technologies Resources
 
 * Sketch v50.2
