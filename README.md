@@ -64,7 +64,7 @@ https://www.wework.com/
 * Not very friendly in terms of color
 * While overall they offer the most, their website jams too much in a small space
 
-####Inspiration
+#### Inspiration
 
 * Easy to find amenities and billing
 * Make sure splash page is attractive and doesn't overwhelm the user
@@ -75,7 +75,8 @@ https://www.wework.com/
 * Avoid "hard" layout / overload of information in a small space
 
 ## Specs
-* User will have ability to
+
+* User will have ability to view current build concepts via sketch 
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
