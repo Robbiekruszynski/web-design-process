@@ -61,7 +61,7 @@ https://www.wework.com/
 * Not very friendly in terms of color
 * While overall they offer the most, their website jams too much in a small space
 
-####
+####Inspiration
 
 * Easy to find amenities and billing
 * Make sure splash page is attractive and doesn't overwhelm the user
@@ -70,6 +70,9 @@ https://www.wework.com/
 * Color scheme to go along with interior layout will provide consistency physical to digital
 * Usage of interesting / readable font helps keep interest in provided information
 * Avoid "hard" layout / overload of information in a small space
+
+## Specs
+
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
@@ -80,32 +83,38 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 ![Sketch](img/sketch5.jpg)
 ![Sketch](img/sketch6.jpg)
 
+#### Screenshots of Sketch Wireframes Mobile
 
-
-
-
-#### Screenshots of Sketch Wireframes
-* Mobile layout
 ![Sketch](img/splash.png)
 ![Sketch](img/home.png)
 ![Sketch](img/navbar.png)
 ![Sketch](img/location.png)
 ![Sketch](img/reach.png)
-#### List of Technologies Resources
 
-* List all technologies and outside resources your project uses. Especially when we begin using outside UI frameworks in week three! Not only does this give credit where credit is due, but it shows employers what tools you're experienced in.
+#### Screenshots of Sketch Wireframes tablet
+![Sketch](img/ipadSplash.png)
+#### Screenshots of Sketch Wireframes Desktop
+![Sketch](img/desktopSplash.png)
+#### List of Technologies Resources
 
 * Sketch v50.2
 
+### Setup/Installation Requirements
 
-#### Setup Instructions
-Similar to what we've done in previous courses, describe the steps necessary to launch this project in Sketch.
+* Open your preferred browser
+* Or copy / paste https://github.com/Robbiekruszynski/web-design-process be sure you're in your Desktop directory
+* clone or download https://github.com/Robbiekruszynski/web-design-process.git Desktop
+* Open the web-design-process folder and open the xj-16 sketch file
+* Explore xj-16
+* Using Sketch version 53.1
 
 #### Description of Responsiveness
 After we begin creating responsive sites in week 3, you should also include a description of how this site is responsive. Does it include both mobile and desktop versions? Mobile, desktop and tablet? List that information here.
 
 #### Developmental Roadmap
-Is there work you plan on continuing doing on this project? Features you'd like to add? If so, describe what your future intentions are in this section.
+* Continue to buildout all maps for mobile / desktop / tablet via sketch
+* further develop usability
+* Buildout using JS/SCSS/CSS/HTML5
 
 ## Known Bugs
 
@@ -117,7 +126,7 @@ _Contact robbiekruszynski@gmail.com with questions and comments_
 
 ## Technologies Used
 
-* Sketch
+* As of 02/22/19: Sketch
 
 ### License
 
