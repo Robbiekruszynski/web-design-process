@@ -1,4 +1,4 @@
-real-estate# _XJ-16 Space_
+# _XJ-16 Space_
 
 #### {02/22/19}_
 
@@ -6,7 +6,7 @@ real-estate# _XJ-16 Space_
 
 ## Description
 
-* _Web buildout for XJ-16 space. Showcasing a welcoming / productive shared workspace for anyone interested. Target demographic ranges "artists, day-traders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space." The website itself will contain a large splash/welcome page that will offer easy navigation to finding out cost of space, offers by XJ16 / perks to being a member, along with locations and amenities. The overall focus is going to revolve around a smart / simple style that is accessable, yet has an elegance that feels higher end._
+* _Web buildout for XJ-16 space. Showcasing a welcoming / productive shared workspace for anyone interested. Target demographic ranges "artists, day-traders, craftspeople, writers, counselors, more traditional business people--you know, anyone and everyone--in our space." The website itself will contain a large splash/welcome page that will offer easy navigation to finding out cost of space, offers by XJ16 / perks to being a member, along with locations and amenities. The overall focus is going to revolve around a smart / simple style that is accessible, yet has an elegance that feels higher end._
 
 #### Target User 1
 * Nathan - visual artist
