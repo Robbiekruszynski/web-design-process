@@ -1,0 +1,33 @@
+{
+  "name": "web-design-process",
+  "version": "1.0.0",
+  "description": "#### {02/22/19}_",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode development",
+    "start": "npm run build; webpack-dev-server --open --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robbiekruszynski/web-design-process.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robbiekruszynski/web-design-process/issues"
+  },
+  "homepage": "https://github.com/Robbiekruszynski/web-design-process#readme",
+  "dependencies": {
+    "sass-loader": "^7.1.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.10",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.9.3",
+    "style-loader": "^0.20.2",
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9",
+    "webpack-dev-server": "^3.1.0"
+  }
+}
