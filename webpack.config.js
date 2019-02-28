@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
 module.exports = {
 
@@ -24,7 +25,27 @@ module.exports = {
             "css-loader",
             "sass-loader"
         ]
-      }
+      },
+
+      {
+        test: /\.(gif|png|jpe?g)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: '[name].[ext]',
+              outputPath: 'assets/img/'
+            }
+          }
+        ]
+      },
+
+      {
+        test:/\.html$/,
+        use: [
+          'html-loader'
+        ]
+      },
 
     ]
   },
@@ -34,7 +55,13 @@ module.exports = {
       inject: 'body',
       template: './src/index.html',
       filename: 'index.html'
+    }),
+
+    new HtmlWebpackPlugin({
+      template: './src/nav.html',
+      filename: 'nav.html'
     })
+
   ]
 
 };

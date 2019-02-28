@@ -1,8 +1,18 @@
 $font-stack: Helvetica, sans-serif;
-$primary-font-color: red;
+$primary-font-color: blue;
 
-body {
+.index {
   font: 100% $font-stack;
   color: $primary-font-color;
-  background-color: lightgrey;
+  background: url(../assets/img/background2.jpg);
+  background-size: cover;
+  width: 100vw;
+}
+
+
+.nav {
+  background: url(../assets/img/background1.jpg);
+  background-size: cover;
+  width: 100vw;
+
 }
