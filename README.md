@@ -98,14 +98,10 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 ![Sketch](src/assets/img/upcoming.png)
 
 #### Screenshots of Sketch Wireframes tablet
-![Sketch](img/ipadSplash.png)
+![Sketch](src/assets/img/ipadSplash.png)
 
 #### Screenshots of Sketch Wireframes Desktop
-![Sketch](img/desktopSplash.png)
-
-#### List of Technologies Resources
-
-* Sketch v50.2
+![Sketch](src/assets/img/desktopSplash.png)
 
 ### Setup/Installation Requirements
 
@@ -140,9 +136,9 @@ _As of March 1st 2019 there are no known bugs_
 
 _Contact robbiekruszynski@gmail.com with questions and comments_
 
-## Technologies Used
+#### List of Technologies Resources
 
-* As of 02/22/19: Sketch
+* As of 02/22/19: Sketch v50.2
 * As of 03/01/19: Custom built webpack
 * As of 03/01/19: HTML 5
 * As of 03/01/19: SASS / CSS
