@@ -36,9 +36,9 @@ body {
   h1 {
     font-family: monospace;
     text-align: center;
-    text-decoration: underline;
   }
   h3 {
+    font-family: monospace;
     text-align: center;
   }
 }
@@ -73,21 +73,28 @@ body {
   width: 100vw;
   height: 100vh;
   h1{
+    font-family: monospace;
     text-align: center;
     text-decoration: underline;
   }
   h3{
+    font-family: monospace;
     text-align: center;
   }
 }
 
 .upcoming-body {
   h1{
+    font-family: monospace;
     text-align: center;
   }
   background: rgba(220, 220, 220, .3);
   background-size: cover;
   width: 98vw;
+  h3{
+    font-family: monospace;
+    text-align: center;
+  }
   }
 
   .space-body {
@@ -95,6 +102,7 @@ body {
     background-size: cover;
     width: 100vw;
     h1 {
+      font-family: monospace;
       text-align: center;
     }
     }
@@ -122,6 +130,7 @@ body {
   width: 99vw;
 
   a{
+    font-family: monospace;
     text-decoration: none;
     color: black;
   }
@@ -132,6 +141,7 @@ body {
     color: black;
     padding-left: 1vmin;
     h2 {
+      font-family: monospace;
       font-size: 3vmin;
       line-height: 4vmin;
       margin-block-start: 0;
