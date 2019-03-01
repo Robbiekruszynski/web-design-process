@@ -69,7 +69,7 @@ https://www.wework.com/
 * Easy to find amenities and billing
 * Make sure splash page is attractive and doesn't overwhelm the user
 * Responsive on mobile with no overflow
-* Usage of flex box with spacing or css grid helps store information in an accessable way
+* Usage of flex box with spacing or css grid helps store information in an accessible way
 * Color scheme to go along with interior layout will provide consistency physical to digital
 * Usage of interesting / readable font helps keep interest in provided information
 * Avoid "hard" layout / overload of information in a small space
@@ -80,22 +80,22 @@ https://www.wework.com/
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
-![Sketch](/assets/img/sketch1.jpg)
-![Sketch](img/sketch2.jpg)
-![Sketch](img/sketch3.jpg)
-![Sketch](img/sketch4.jpg)
-![Sketch](img/sketch5.jpg)
-![Sketch](img/sketch6.jpg)
+![Sketch](src/assets/img/sketch1.jpg)
+![Sketch](src/assets/img/sketch2.jpg)
+![Sketch](src/assets/img/sketch3.jpg)
+![Sketch](src/assets/img/sketch4.jpg)
+![Sketch](src/assets/img/sketch5.jpg)
+![Sketch](src/assets/img/sketch6.jpg)
 
 #### Screenshots of Sketch Wireframes Mobile
 
-![Sketch](img/splash.png)
-![Sketch](img/home.png)
-![Sketch](img/navbar.png)
-![Sketch](img/location.png)
-![Sketch](img/reach.png)
-![Sketch](img/space.png)
-![Sketch](img/upcoming.png)
+![Sketch](src/assets/img/splash.png)
+![Sketch](src/assets/img/home.png)
+![Sketch](src/assets/img/navbar.png)
+![Sketch](src/assets/img/location.png)
+![Sketch](src/assets/img/reach.png)
+![Sketch](src/assets/img/space.png)
+![Sketch](src/assets/img/upcoming.png)
 
 #### Screenshots of Sketch Wireframes tablet
 ![Sketch](img/ipadSplash.png)
