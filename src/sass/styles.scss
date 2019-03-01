@@ -45,14 +45,16 @@ body {
 .location-body {
   background: rgba(220, 220, 220, .3);
   background-size: cover;
-  width: 100vw;
+  width: 98vw;
   h1 {
     text-align: center;
   }
 }
 .location-bulk {
+  width: 97vw;
   img{
-    width: 100vw;
+    width: 97vw;
+    height: auto;
 
   }
 }
@@ -74,7 +76,7 @@ body {
 .nav-body {
   background: url(../assets/img/background1.jpg);
   background-size: cover;
-  width: 100vw;
+  width: 99vw;
   height: 100vh;
 }
 .space-body {
@@ -117,15 +119,18 @@ body {
 
 #nav-bar {
   display: flex;
-  width: 100vw;
+  width: 97vw;
   // @include size(100vw, 50px);
 }
 
 #dropdown{
   display: none;
   margin-top: 5px;
-  width: 100vw;
+  width: 95vw;
   height:15vmin;
+  a{
+    text-decoration: none;
+  }
   // @include size(100vw, 10vmin);
   .nav-tab {
     width: 100%;
