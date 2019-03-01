@@ -56,18 +56,18 @@ body {
   display: none;
   margin-top: 5px;
   @include size(100vw, 10vmin);
-  border-bottom: 2px solid black;
   .nav-tab {
     width: 100%;
     height: 50%;
     color: black;
     padding-left: 1vmin;
     h2 {
-      font-size: 4vmin;
+      font-size: 3vmin;
       line-height: 4vmin;
       margin-block-start: 0;
       margin-block-end: 0;
     }
+    // border-bottom: 2px solid black;
   }
 }
 
