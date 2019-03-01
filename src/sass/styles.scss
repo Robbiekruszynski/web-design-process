@@ -1,5 +1,5 @@
-$font-stack: Helvetica, sans-serif;
-$primary-font-color: blue;
+// $font-stack: Helvetica, sans-serif;
+// $primary-font-color: blue;
 
 @mixin size($arg...) {
   @if length($arg) == 1{
@@ -21,13 +21,24 @@ body {
 }
 
 .index {
-  font: 100% $font-stack;
-  color: $primary-font-color;
-  background: url(../assets/img/background2.jpg);
+  // font: 100% $font-stack;
+  // color: $primary-font-color;
+  background: url(../assets/img/backgroundMain.png);
   background-size: cover;
   width: 100vw;
 }
 
+#title {
+  position: absolute;
+  // margin-top: 70vw;
+  // margin-left: 10vw;
+  font-family: monospace;
+  font-size: 50px;
+  color: black;
+  a {
+    text-decoration: none;
+  }
+  }
 
 .nav {
   background: url(../assets/img/background1.jpg);
@@ -71,15 +82,20 @@ body {
   }
 }
 
-@media screen and(max-width: 600px){
-  #press-body{
-  }
+@media screen and(max-width: 380px){
+  #title {
+    margin-top: 150vw;
+    margin-left: 13vw;
+    font-family: monospace;
+    font-size: 50px;
+    color: black;
+    a {
+      text-decoration: none;
+    }
+    }
 }
 
 @media screen and (max-width: 900px) {
-  #nav-bar{
-    // border-bottom: 1px black solid;
 
-  }
 
 }
