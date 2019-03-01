@@ -1,4 +1,6 @@
-
+// *{
+//   border: 1px solid red;
+// }
 @mixin cushion($padding,$margin) {
   padding: $padding;
   margin: $margin;
@@ -68,7 +70,7 @@ body {
 }
 
 .contact-body {
-  background: url(../assets/img/contact.jpg);
+  background: url(../assets/img/tryout.gif);
   background-size: cover;
   width: 100vw;
   height: 100vh;
@@ -149,6 +151,23 @@ body {
     }
   }
 }
+
+  .offer {
+    // display: flex;
+    // flex-direction: row;
+    li {
+    list-style-type: none;
+    }
+  }
+  .art-space{
+    ul{
+    }
+  }
+  .creative-space{
+  justify-content: flex-end;
+  align-items: flex-end;
+  align-content: flex-end;
+  }
 
 @media screen and(max-width: 380px){
   .index {
