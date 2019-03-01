@@ -56,11 +56,22 @@ module.exports = {
       template: './src/index.html',
       filename: 'index.html'
     }),
-
     new HtmlWebpackPlugin({
       template: './src/nav.html',
       filename: 'nav.html'
-    })
+    }),
+    new HtmlWebpackPlugin({
+      template: './src/contact.html',
+      filename: 'contact.html'
+    }),
+    new HtmlWebpackPlugin({
+      template: './src/space.html',
+      filename: 'space.html'
+    }),
+    new HtmlWebpackPlugin({
+      template: './src/upcoming.html',
+      filename: 'upcoming.html'
+    }),
 
   ]
 
