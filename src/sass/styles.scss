@@ -20,32 +20,51 @@ body {
   @include cushion(0,0);
 }
 
+
+#title {
+  position: absolute;
+  font-family: monospace;
+  font-size: 50px;
+  color: black;
+    a {
+      text-decoration: none;
+    }
+  }
+
 .index {
-  // font: 100% $font-stack;
-  // color: $primary-font-color;
   background: url(../assets/img/backgroundMain.png);
   background-size: cover;
   width: 100vw;
 }
 
-#title {
-  position: absolute;
-  // margin-top: 70vw;
-  // margin-left: 10vw;
-  font-family: monospace;
-  font-size: 50px;
-  color: black;
-  a {
-    text-decoration: none;
-  }
-  }
-
-.nav {
+.nav-body {
   background: url(../assets/img/background1.jpg);
   background-size: cover;
   width: 100vw;
-
 }
+.space-body {
+  background: url(../assets/img/background1.jpg);
+  background-size: cover;
+  width: 100vw;
+  }
+
+.contact-body {
+  background: url(../assets/img/background1.jpg);
+  background-size: cover;
+  width: 100vw;
+  }
+
+.upcoming-body {
+  background: rgba(220, 220, 220, .3);
+  background-size: cover;
+  width: 100vw;
+  }
+
+.space-body {
+  background: url(../assets/img/background1.jpg);
+  background-size: cover;
+  width: 100vw;
+  }
 
 .burger{
   img{
