@@ -1,6 +1,10 @@
 // $font-stack: Helvetica, sans-serif;
 // $primary-font-color: blue;
 
+// *{
+//   border: 1px red solid;
+// }
+
 @mixin size($arg...) {
   @if length($arg) == 1{
     width: nth($arg, 1);
@@ -35,6 +39,20 @@ body {
   background: url(../assets/img/backgroundMain.png);
   background-size: cover;
   width: 100vw;
+}
+
+.location-body {
+  background: rgba(220, 220, 220, .3);
+  background-size: cover;
+  width: 100vw;
+  h1 {
+    text-align: center;
+  }
+}
+.location-bulk {
+  img{
+    width: 100vw;
+  }
 }
 
 .nav-body {
