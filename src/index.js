@@ -1,3 +1,8 @@
 import './sass/styles.scss';
+import $ from 'jquery';
 
-console.log("SNOOPDOG")
+$(document).ready(function() {
+  $(".burger").click(function() {
+    $("#dropdown").fadeToggle();
+  });
+});

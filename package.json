@@ -18,7 +18,9 @@
     "url": "https://github.com/Robbiekruszynski/web-design-process/issues"
   },
   "homepage": "https://github.com/Robbiekruszynski/web-design-process#readme",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
   "devDependencies": {
     "css-loader": "^0.28.10",
     "file-loader": "^1.1.6",
