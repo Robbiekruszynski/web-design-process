@@ -80,7 +80,7 @@ https://www.wework.com/
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
-![Sketch](assets/img/sketch1.jpg)
+![Sketch](../assets/img/sketch1.jpg)
 ![Sketch](img/sketch2.jpg)
 ![Sketch](img/sketch3.jpg)
 ![Sketch](img/sketch4.jpg)
