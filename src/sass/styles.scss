@@ -8,7 +8,6 @@ body {
   @include cushion(0,0);
 }
 
-
 #title {
   display: flex;
   justify-content: center;
@@ -37,6 +36,10 @@ body {
   h1 {
     font-family: monospace;
     text-align: center;
+    text-decoration: underline;
+  }
+  h3 {
+    text-align: center;
   }
 }
 .location-bulk {
@@ -63,11 +66,6 @@ body {
   width: 99vw;
   height: 100vh;
 }
-.space-body {
-  background-color: rgba(220, 220, 220, .5);
-  background-size: cover;
-  width: 100vw;
-  }
 
 .contact-body {
   background: url(../assets/img/contact.jpg);
@@ -76,8 +74,12 @@ body {
   height: 100vh;
   h1{
     text-align: center;
+    text-decoration: underline;
   }
+  h3{
+    text-align: center;
   }
+}
 
 .upcoming-body {
   h1{
@@ -88,11 +90,14 @@ body {
   width: 98vw;
   }
 
-.space-body {
-  background: url(../assets/img/background1.jpg);
-  background-size: cover;
-  width: 100vw;
-  }
+  .space-body {
+    background: rgba(220, 220, 220, .5);
+    background-size: cover;
+    width: 100vw;
+    h1 {
+      text-align: center;
+    }
+    }
 
 .burger{
   // height: 100vh;
