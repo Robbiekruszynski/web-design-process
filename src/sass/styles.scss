@@ -9,7 +9,9 @@
 body {
   @include cushion(0,0);
 }
-
+.nav {
+  width: 98vw;
+}
 #title {
   display: flex;
   justify-content: center;
@@ -45,7 +47,7 @@ body {
   }
 }
 .location-bulk {
-  width: 98vw;
+  // width: 98vw;
   img{
     width: 98vw;
     height: auto;
@@ -60,6 +62,9 @@ body {
   height: auto;
 
   }
+}
+.nav {
+  width: 95vw;
 }
 
 .nav-body {
@@ -102,7 +107,7 @@ body {
   .space-body {
     background: rgba(220, 220, 220, .5);
     background-size: cover;
-    width: 100vw;
+    width: 95vw;
     h1 {
       font-family: monospace;
       text-align: center;
@@ -151,23 +156,56 @@ body {
     }
   }
 }
-
+.offer-header{
+  text-align: center;
+  margin-left: 3%;
+  max-width: 96vw;
+}
   .offer {
-    // display: flex;
-    // flex-direction: row;
+    max-width: 96vw;
+    text-align: center;
     li {
-    list-style-type: none;
+      margin-right: 2%;
+      text-align: center;
+      list-style-type: none;
+    }
+    h2{
+      text-align: center;
+      margin-left: 3.5%;
+    }
+    h4{
+      text-align: center;
+      margin-left: 2.5%;
+    }
+    img {
+      margin-left: 3.5%;
+      margin-bottom: 2%;
+      max-width: 90vw;
+      height: auto;
     }
   }
-  .art-space{
-    ul{
-    }
+
+  .have-land{
+    background: url(../assets/img/ideas.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    position:fixed;
+
   }
-  .creative-space{
-  justify-content: flex-end;
-  align-items: flex-end;
-  align-content: flex-end;
-  }
+.we-have {
+height: 100vh;
+color: black;
+display: grid;
+grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr 1fr;
+}
+#membership{
+  grid-column: 2;
+  grid-row: 2;
+}
+#visit{
+  grid-column: 5;
+  grid-row: 4;
+}
 
 @media screen and(max-width: 380px){
   .index {
@@ -177,7 +215,3 @@ body {
     height: 100vh;
    }
   }
-@media screen and (max-width: 900px) {
-
-
-}

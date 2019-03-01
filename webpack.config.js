@@ -76,6 +76,10 @@ module.exports = {
       template: './src/location.html',
       filename: 'location.html'
     }),
+    new HtmlWebpackPlugin({
+      template: './src/have.html',
+      filename: 'have.html'
+    }),
 
   ]
 
