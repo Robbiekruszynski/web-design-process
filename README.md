@@ -109,16 +109,23 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 
 ### Setup/Installation Requirements
 
+* As of 03/01/19:
 * Open your preferred browser
 * Or copy / paste https://github.com/Robbiekruszynski/web-design-process be sure you're in your Desktop directory
-* clone or download https://github.com/Robbiekruszynski/web-design-process.git Desktop
+* clone or download https://github.com/Robbiekruszynski/web-design-process.git
+* Open your terminal and navigate to the web-design-process directory
+* Once in your terminal and proper directory run the command
+* npm install (provided you are free of errors continue run the next command)
+* npm run start (should automatically open localhost:8080/index.html in your default browser)
+* If you are curious to view the wire-frame / prototype
 * Open the web-design-process folder and open the xj-16 sketch file
-* Explore xj-16
 * Using Sketch version 53.1
+* Explore xj-16
+
 
 #### Description of Responsiveness
 XJ-16 will be accessible across all platforms of viewports, each having it's own flavor.
-The navigation bar will be the biggest variation depending on how the user is viewing the site in order to accomidate for available real-estate.
+The navigation bar will be the biggest variation depending on how the user is viewing the site in order to accommodate for available real-estate.
 
 #### Developmental Roadmap
 * Continue to buildout all maps for mobile / desktop / tablet via sketch
@@ -127,7 +134,7 @@ The navigation bar will be the biggest variation depending on how the user is vi
 
 ## Known Bugs
 
-_As of Feb 22nd 2019 there are no known bugs_
+_As of March 1st 2019 there are no known bugs_
 
 ## Support and contact details
 
@@ -136,6 +143,12 @@ _Contact robbiekruszynski@gmail.com with questions and comments_
 ## Technologies Used
 
 * As of 02/22/19: Sketch
+* As of 03/01/19: Custom built webpack
+* As of 03/01/19: HTML 5
+* As of 03/01/19: SASS / CSS
+* As of 03/01/19: Jquery
+
+
 
 ### License
 
