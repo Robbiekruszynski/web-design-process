@@ -21,6 +21,7 @@ body {
   color: black;
     a {
       text-decoration: none;
+      color: #f7863a;
     }
   }
 
@@ -47,10 +48,13 @@ body {
   }
 }
 .location-bulk {
+  margin: 0 auto;
   // width: 98vw;
   img{
-    width: 98vw;
-    height: auto;
+      margin-left: 5%;
+      margin-bottom: 2%;
+      max-width: 90vw;
+      height: auto;
   }
 }
 
@@ -188,6 +192,7 @@ body {
   .have-land{
     background: url(../assets/img/ideas.gif);
     background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
     position:fixed;
 
@@ -208,10 +213,20 @@ grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr 1fr;
 }
 
 @media screen and(max-width: 380px){
-  .index {
-    background: url(../assets/img/backgroundMain.png);
-    background-size: cover;
-    width: 100vw;
-    height: 100vh;
-   }
+.location-body{
+  background: url(../assets/img/location.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+  }
+
+  @media screen and (max-width: 800px){
+    .location-body{
+    background-color: #AA4B72;
+    }
+    img {
+      margin-left: 1%;
+
+    }
   }
