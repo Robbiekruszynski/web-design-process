@@ -2,7 +2,7 @@ import './sass/styles.scss';
 import $ from 'jquery';
 
 $(document).ready(function() {
-  $(".nav").click(function() {
+  $(".burger").click(function() {
     $("#dropdown").fadeToggle();
   });
 });
