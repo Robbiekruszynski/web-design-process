@@ -1,6 +1,6 @@
 # _XJ-16 Space_
 
-#### {02/22/19}_
+#### {03/01/19}_
 
 #### By _**Robbie Kruszynski**_
 
@@ -76,7 +76,7 @@ https://www.wework.com/
 
 ## Specs
 
-* User will have ability to view current build concepts via sketch 
+* User will have ability to view current build concepts via sketch
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
