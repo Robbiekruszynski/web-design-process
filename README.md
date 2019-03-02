@@ -77,6 +77,11 @@ https://www.wework.com/
 ## Specs
 
 * User will have ability to view current build concepts via sketch
+* User will have the ability to navigate onto build first loading the webpack (instructions below)
+* (open terminal after clone and run two separate npm commands to load and run)
+* User will navigate the website via the nav bar (top left) and explore XJ-16 
+* User will (depending on viewport) have a different experience navigating
+* User will notice the responsive behavior enlarging or shrinking site.
 
 ####Photos of Paper Sketches
 We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
@@ -129,20 +134,21 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 * clone or download https://github.com/Robbiekruszynski/web-design-process.git
 * Open your terminal and navigate to the web-design-process directory
 * Once in your terminal and proper directory run the command
-* npm install (provided you are free of errors continue run the next command)
+* npm install (provided you are free of errors continue and run the next command)
 * npm run start (should automatically open localhost:8080/index.html in your default browser)
+* Explore xj-16
 * If you are curious to view the wire-frame / prototype
 * Open the web-design-process folder and open the xj-16 sketch file
 * Using Sketch version 53.1
-* Explore xj-16
+* Explore xj-16 sketch
 
 
 #### Description of Responsiveness
 XJ-16 will be accessible across all platforms of viewports, each having it's own flavor.
-The navigation bar will be the biggest variation depending on how the user is viewing the site in order to accommodate for available real-estate.
+Adjustments to backgrounds will occur depending on viewport. More than anything a strong focus on attempting to gain interest while navigating throughout the website.
 
 #### Developmental Roadmap
-* Continue to buildout all maps for mobile / desktop / tablet via sketch
+* Continue to buildout all maps for mobile / desktop / tablet
 * further develop usability
 
 
