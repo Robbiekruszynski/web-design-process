@@ -103,15 +103,17 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 #### Screenshots of Sketch Wireframes Desktop
 ![Sketch](src/assets/img/desktopSplash.png)
 
-#### Screenshots of current build 02/01/19
+### Screenshots of current build 02/01/19
 
 #### Screenshots of Desktop
 ![Sketch](src/assets/img/desk1.png)
 ![Sketch](src/assets/img/desk2.png)
+![Sketch](src/assets/img/desk3.png)
 
 #### Screenshots of ipad
 ![Sketch](src/assets/img/ipad1.png)
 ![Sketch](src/assets/img/ipad2.png)
+![Sketch](src/assets/img/ipad3.png)
 
 #### Screenshots of mobile
 ![Sketch](src/assets/img/phone1.png)
