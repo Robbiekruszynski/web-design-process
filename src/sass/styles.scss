@@ -48,13 +48,11 @@ body {
   }
 }
 .location-bulk {
-  margin: 0 auto;
-  // width: 98vw;
   img{
-      margin-left: 5%;
-      margin-bottom: 2%;
-      max-width: 90vw;
-      height: auto;
+      margin-left: 9%;
+      margin-bottom: 20%;
+      max-width: 80vw;
+      // height: auto;
   }
 }
 
@@ -232,13 +230,21 @@ grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr 1fr;
 
     .location-body{
       width: 90vw;
-      background:  url(../assets/img/contact.jpg);
-    }
+      background: url(../assets/img/contact.jpg);
 
+    }
     .location-bulk{
         img{
         width: 90vw;
         }
     }
-
   }
+
+  @media screen and(max-width: 380px){
+  .location-body{
+    background: url(../assets/img/location.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+    }

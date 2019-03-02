@@ -103,6 +103,22 @@ We highly recommend you snap quick photos of your paper sketches, and include th
 #### Screenshots of Sketch Wireframes Desktop
 ![Sketch](src/assets/img/desktopSplash.png)
 
+#### Screenshots of current build 02/01/19
+
+#### Screenshots of Desktop
+![Sketch](src/assets/img/desk1.png)
+![Sketch](src/assets/img/desk2.png)
+
+#### Screenshots of ipad
+![Sketch](src/assets/img/ipad1.png)
+![Sketch](src/assets/img/ipad2.png)
+
+#### Screenshots of mobile
+![Sketch](src/assets/img/phone1.png)
+![Sketch](src/assets/img/phone2.png)
+![Sketch](src/assets/img/phone3.png)
+
+
 ### Setup/Installation Requirements
 
 * As of 03/01/19:
@@ -126,7 +142,7 @@ The navigation bar will be the biggest variation depending on how the user is vi
 #### Developmental Roadmap
 * Continue to buildout all maps for mobile / desktop / tablet via sketch
 * further develop usability
-* Buildout using JS/SCSS/CSS/HTML5
+
 
 ## Known Bugs
 
