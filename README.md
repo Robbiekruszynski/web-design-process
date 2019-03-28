@@ -83,8 +83,8 @@ https://www.wework.com/
 * User will (depending on viewport) have a different experience navigating
 * User will notice the responsive behavior enlarging or shrinking site.
 
-####Photos of Paper Sketches
-We highly recommend you snap quick photos of your paper sketches, and include them in your README. This depicts your process, and you will be required to include them for larger projects and Friday independent projects.
+#### Photos of Paper Sketches
+
 ![Sketch](src/assets/img/sketch1.jpg)
 ![Sketch](src/assets/img/sketch2.jpg)
 ![Sketch](src/assets/img/sketch3.jpg)
