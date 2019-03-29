@@ -1,7 +1,5 @@
 # _XJ-16 Space_
 
-live viewing: https://Robbiekruszynski.github.io/web-design-process/src/index.html
-
 #### {03/01/19}_
 
 #### By _**Robbie Kruszynski**_
